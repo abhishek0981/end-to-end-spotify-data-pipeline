@@ -1,5 +1,6 @@
 # End-to-end-spotify-data-pipeline
 Building a data pipeline with Spotify API for data extraction using AWS Lambda, with automated triggers. Transform data, store files on S3, and use AWS Glue to create tables. Query data via Athena for analytics, ensuring automation and scalability.
+
 ![image](https://github.com/user-attachments/assets/dd114eaf-db9b-460f-a612-ad425068154e)
 
 This architecture diagram illustrates the complete data pipeline for extracting, transforming, and loading Spotify data using various AWS services. The pipeline is structured into three main stages: Extract, Transform, and Load (ETL).
